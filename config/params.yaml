@@ -1,5 +1,5 @@
 webcam_publisher_node:
   ros__parameters:
-    topci_name: /camera/rgb/image_raw
+    topci_name: /webcam/image_raw
     camera_index: 0
     publish_rate: 30.0
